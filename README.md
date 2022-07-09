@@ -1,2 +1,2 @@
 # HashCap
-Hash software
+ 
